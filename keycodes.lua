@@ -115,6 +115,7 @@ return {
     ["Y"] = Enum.KeyCode.Y;
     ["Z"] = Enum.KeyCode.Z;
 
+    --[[
     ["Zero"] = Enum.KeyCode.Zero;
     ["One"] = Enum.KeyCode.One;
     ["Two"] = Enum.KeyCode.Two;
@@ -153,6 +154,7 @@ return {
     ["F10"] = Enum.KeyCode.F10;
     ["F11"] = Enum.KeyCode.F11;
     ["F12"] = Enum.KeyCode.F12;
+    ]]
 }
 -- damn
 -- - colin sigma
